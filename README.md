@@ -4,7 +4,17 @@
 
 - data                -->菜单数据。
 - mock                -->mock数据。
-- src                 -->项目源码。
+    - auth  --> 安全认证信息
+    - campaign  --> 主动营销数据
+    - customer-hive --> 客户分群数据
+    - dashboard  --> 主页数据
+    - event-service  --> 事件关怀数据
+    - goods-selector   --> 淘宝商品数据
+    - interacts   -->互动中心数据
+    - loyalty     -->忠诚度管理数据
+    - sms    --> 短信相关数据
+    - db.json
+- src                 -->项目源码。
 - .babelrc            -->Babel的配置文件，来设置转码规则和插件。
 - .editorconfig       --> 配置编辑器保持一样的风格
 - .eslintignore       -->忽略某些文件或目录
