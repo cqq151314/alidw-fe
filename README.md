@@ -34,7 +34,7 @@
 - package.json        -->定义了项目的配置信息及所依赖的各种模块，npm install 命令根据这个配置文件，自动下载所需的模块
 - package-lock.json   -->npm升级后生成的文件
 - server.js            -->配置服务
-- webpack-build.config.js      -->配置服务
-- webpack-common.config.js     -->配置服务
-- webpack-dev.config.js        -->配置服务
+- webpack-build.config.js      -->webpack打包配置
+- webpack-common.config.js     -->webpack打包配置
+- webpack-dev.config.js        -->webpack打包配置
   
