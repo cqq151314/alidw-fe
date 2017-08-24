@@ -1,8 +1,9 @@
 ## 阿里B版项目目录结构
 
 ### alidw-fe
-  - data                  菜单数据
 
+  - data                  菜单数据
+  
   - mock                  mock数据
 
   - src                   项目源码
