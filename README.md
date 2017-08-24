@@ -25,17 +25,28 @@
     
     - db.json
     
-- src                 -->项目源码。
+- src   -->项目源码。
+
      - assets  项目中的静态资源
+     
         - images 图片
+        
         - pages  项目认证失败页面
+        
         - styles 公用样式
+        
         - ueditor 富文本编辑器
+        
       - common  公用配置信息
+      
       - components 自定义组件
+      
       - containers 逻辑代码
+      
       - index.html 项目主页
+      
       - login.html 登录页面
+      
       
 - .babelrc            -->Babel的配置文件，来设置转码规则和插件。
 - .editorconfig       --> 配置编辑器保持一样的风格
