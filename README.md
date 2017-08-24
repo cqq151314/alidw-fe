@@ -2,13 +2,13 @@
 
 ### alidw-fe
 
-  - data                  菜单数据
-  
-  - mock                  mock数据
+  - data  -》菜单数据
+   
+  - mock  -》mock数据
+ 
+  - src  -》项目源码
 
-  - src                   项目源码
-
-  - .babelrc              Babel的配置文件，来设置转码规则和插件
+  - .babelrc  -》Babel的配置文件，来设置转码规则和插件
 
   - .editorconfig         配置编辑器保持一样的风格
 
