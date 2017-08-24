@@ -19,6 +19,7 @@
   - .gitignore   告诉Git哪些文件不需要添加到版本管理中
   
   - package.json  定义了项目的配置信息及所依赖的各种模块，npm install 命令根据这个配置文件，自动下载所需的模块
+  
   
   - package-lock.json  npm升级后生成的文件
   
